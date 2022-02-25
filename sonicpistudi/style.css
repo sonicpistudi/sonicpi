@@ -1,0 +1,47 @@
+pre {
+  background-color:#333;
+  color:#fff;
+  height: 420px;
+  overflow: auto;
+  padding:10px !important;
+}
+.doublePoint {
+ color: #ff17a1;
+}
+.dot {
+ color: #4790ff;
+}
+.keywords {
+ color: #ff8c00;
+}
+.comment {
+ color: #ddd !important;
+ font-style: italic;
+}
+
+.rel {
+  position:relative;
+}
+
+.btn-copy {
+  position:absolute;
+  top:0px;
+  right: 0px;
+  background-color: transparent;
+}
+.btn-play-snippet {
+  position:absolute;
+  bottom: -20px;
+  right:-15px;
+}
+
+.code-title {
+  text-align: center;
+  margin-top:5px;
+  margin-bottom:5px;
+}
+
+.col-body {
+  max-height:550px;
+  overflow:auto;
+}
